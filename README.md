@@ -29,8 +29,6 @@
 批注：明确提到，只观察最后一层的量会导致信息流失，但只对层进行了简单融合。
 期刊信息（影响因子: 6.5；JCR分区: Q1；中科院分区: 计算机科学2区；CCF: C）
 
----
-
-<p><span style="color:#1f618d; font-weight:600">BERT: Pre-training of deep bidirectional transformers for language understanding：</span><br>
-批注：2019 - BERT 开山之作。<br>
-<span style="color:#566573; font-style:italic">期刊信息（CCF: B）</span></p>
++ BERT: Pre-training of deep bidirectional transformers for language understanding：
+批注：2019 - BERT 开山之作。
+期刊信息（CCF: B）
