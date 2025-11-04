@@ -32,3 +32,7 @@
 + BERT: Pre-training of deep bidirectional transformers for language understanding：
 批注：2019 - BERT 开山之作。
 期刊信息（CCF: B）
+
+## 关于第一次汇报
+
++ 汇报相关的大纲脉络已经在pre 1st文件夹下，有问题随时咨询
