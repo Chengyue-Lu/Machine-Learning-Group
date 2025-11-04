@@ -8,7 +8,7 @@
 
 + An improved BERT method for the evolution of network public opinion of major infectious diseases: Case study of COVID-19：
 批注：PCA-BERT，用于融合层中信息。
-期刊信息（影响因子: 7.5；JCR分区: Q1；中科院分区: 计算机科学1区）
+期刊信息（影响因子: 7.5；JCR分区: Q1；中科院分区: 计算机科学1区；CCF: C）
 
 + BERT-CNN: Improving BERT for requirements classification using CNN：
 批注：2020 年于会议提出 BERT-CNN 架构。
@@ -32,6 +32,10 @@
 + BERT: Pre-training of deep bidirectional transformers for language understanding：
 批注：2019 - BERT 开山之作。
 期刊信息（CCF: B）
+
++ Multi-layer features ablation of BERT model and its application in stock trend prediction：
+批注：多层特征消融策略
+期刊信息（影响因子: 7.5；JCR分区: Q1；中科院分区: 计算机科学1区；CCF: C）
 
 ## 关于第一次汇报
 
